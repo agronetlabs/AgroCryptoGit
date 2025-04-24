@@ -3,8 +3,11 @@
 > **"Fruto das mãos que alimentam o mundo."** — AgroCrypto Trust Framework
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Deployed](https://img.shields.io/badge/deployed-Azure-blue)
 ![Status](https://img.shields.io/badge/project-Verified%20Blockchain%20Infra-orange)
+![Deployed](https://img.shields.io/badge/deployed-AWS-blue)
+![Deployed](https://img.shields.io/badge/deployed-Cloudflare-orange)
+![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
+
 
 AgroCrypto is a global, AI-powered blockchain infrastructure dedicated to tokenizing carbon credits, agricultural commodities, and ESG-compliant financial assets.
 
