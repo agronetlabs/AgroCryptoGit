@@ -31,7 +31,7 @@ A sovereign digital infrastructure rooted in transparency, security, and real-wo
 - Ethereum (for stablecoin issuance)
 - Solana & Avalanche (NFTs & Exchange layer)
 - Bitcoin Lightning for liquidity
-
+- TRON: for fast contract integration and high-performance assets
 ### 🔹 **AgroCrypto Wallet**
 - Send / Receive / Exchange tokens
 - NFC Payments via Host Card Emulation
