@@ -7,6 +7,8 @@
 ![Deployed](https://img.shields.io/badge/deployed-AWS-blue)
 ![Deployed](https://img.shields.io/badge/deployed-Cloudflare-orange)
 ![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
+
 
 
 AgroCrypto is a global, AI-powered blockchain infrastructure dedicated to tokenizing carbon credits, agricultural commodities, and ESG-compliant financial assets.
