@@ -124,6 +124,7 @@ Proprietary – All rights reserved by AgroCrypto Labs LLC
 ---
 
 ### 🔗 Official Domains
+
 - [agrocrypto.xyz](https://agrocrypto.xyz) – Main institutional and strategic portal
 - [agrocrypto.exchange](https://agrocrypto.exchange) – Future global FOREX for Agribusiness (under strategic development)
 - [agrocrypto.io](https://agrocrypto.io) – Web3-native operational core for CLI, contracts, terminals and machine interfaces
