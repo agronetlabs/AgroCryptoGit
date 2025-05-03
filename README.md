@@ -11,18 +11,19 @@
 
 > **"Fruto das mãos que alimentam o mundo."** — AgroCrypto Trust Framework
 
-# "No Agro, confiança é tudo."
+"No Agro, confiança é tudo."
+
 "E a AgroCrypto nasceu pra garantir isso — com tecnologia que protege, registra e agiliza cada etapa da produção."
 
-# "Nada de promessas. Nada de investidores. Aqui, a prioridade é quem produz."
+"Nada de promessas. Nada de investidores. Aqui, a prioridade é quem produz."
 
-# "Desde o campo até a indústria, tudo registrado com transparência, segurança e autonomia."
+"Desde o campo até a indústria, tudo registrado com transparência, segurança e autonomia."
 
-# "AgroCrypto!
+"AgroCrypto!"
 
-# A blockchain do Agro!
+"A blockchain do Agro!"
 
-# Feito Por e Para quem vive o Agro."
+"Feito Por e Para quem vive o Agro."
 
 
 . AgroCrypto is a global, AI-powered blockchain infrastructure dedicated to tokenizing carbon credits, agricultural commodities, and ESG-compliant financial assets.
