@@ -153,8 +153,12 @@ Proprietary – All rights reserved by AgroCrypto Labs LLC
 ### 🛠️ Developer Tip
 Need to inspect your local directory structure?
 
+### 🛠️ Developer Tip (Linux)
+Need to inspect your local directory structure?
+
 ```bash
-winget install JAMSoftware.TreeSize.Free
-```
+sudo apt install ncdu -y
+ncdu ~
+
 
 Then run TreeSize to visualize your disk usage like a boss. 💼🌽
