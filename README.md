@@ -15,7 +15,7 @@
 
 "E a AgroCrypto nasceu pra garantir isso — com tecnologia que protege, registra e agiliza cada etapa da produção."
 
-"Nada de promessas. Nada de investidores. Aqui, a prioridade é quem produz."
+"Aqui, a prioridade é quem produz."
 
 "Desde o campo até a indústria, tudo registrado com transparência, segurança e autonomia."
 
