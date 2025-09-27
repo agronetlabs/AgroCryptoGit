@@ -171,8 +171,10 @@ Need to inspect your local directory structure?
 bash
 sudo apt install ncdu -y
 ncdu ~
+```
 
 ---
 
 Then run TreeSize to visualize your disk usage like a boss. 💼🌽
+
 ---
