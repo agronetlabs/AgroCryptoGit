@@ -133,15 +133,15 @@ description = "AI-powered blockchain infrastructure for tokenizing real-world as
 license = "Proprietary"
 repository = "https://github.com/AgroCryptoGit/agrocrypto-core"
 readme = "README.md"
-homepage = "https://agrocrypto.xyz"
+homepage = "https://agrocrypto.network"
 ```
 
 ---
 
 ## 📫 Contact
 For strategic partnerships or institutional onboarding:
-📧 adm@agrocrypto.io
-🌐 [https://agrocrypto.xyz](https://agrocrypto.xyz)
+📧 admin@agrocrypto.network
+🌐 [https://agrocrypto.network](https://agrocrypto.network)
 
 ---
 
@@ -152,13 +152,12 @@ Proprietary – All rights reserved by AgroCrypto Labs LLC
 
 ### 🔗 Official Domains
 
-- [agrocrypto.xyz](https://agrocrypto.xyz) – Main institutional and strategic portal
-- [agrocrypto.exchange](https://agrocrypto.exchange) – Future global FOREX for Agribusiness (under strategic development)
-- [agrocrypto.io](https://agrocrypto.io) – Web3-native operational core for CLI, contracts, terminals and machine interfaces
-- [agrocrypto.org](https://agrocrypto.org) – Foundational domain of AgroCrypto, active and fully operational. Legally secured via ICANN dispute resolution and held under exclusive ownership of the founder. This is the original beacon of sovereignty and legitimacy across the entire infrastructure.
+- [agrocrypto.xyz](https://agrocrypto.network) – Main institutional and strategic portal
+- [agropay.app](https://agropay.app) – Web3-native operational core for CLI, contracts, terminals and machine interfaces
+- [agrocrypto.io](https://agrocrypto.io) – Foundational domain of AgroCrypto, active and fully operational. Legally secured via ICANN dispute resolution and held under exclusive ownership of the founder. This is the original beacon of sovereignty and legitimacy across the entire infrastructure.
 - [agrocryptolabs.org](https://agrocryptolabs.org) – Governance, legacy, and legal framework reference
-- [agrocrypto.blog](https://agrocrypto.blog) – Reserved for research papers, technical updates, and project reflections (TBD)
-- [agrocrypto.pro](https://agrocrypto.pro) – Reserved for exclusive services, certifications, or future Pro-tier infrastructure (TBD)
+- [agronet.io](https://agronet.io) – Reserved for research papers, technical updates, and project reflections (TBD)
+- [agronet.network](https://agronet.network) – Reserved for exclusive services, certifications, or future Pro-tier infrastructure, Future global FOREX for Agribusiness (under strategic development)
 
 ---
 
