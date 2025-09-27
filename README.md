@@ -12,7 +12,7 @@
 
 ---
 
-# AgroCryptoGit🌾💠
+# AgroCrypto🌾💠 AgroCryptoGit-AgroNet
 
 ## "Fruto das mãos que alimentam o mundo." — AgroCrypto Trust Framework
 
