@@ -14,7 +14,7 @@
 
 # AgroCryptoGit🌾💠
 
-> **"Fruto das mãos que alimentam o mundo."** — AgroCrypto Trust Framework
+## "Fruto das mãos que alimentam o mundo." — AgroCrypto Trust Framework
 
 "No Agro, confiança é tudo."
 
@@ -30,8 +30,10 @@
 
 "Feito Por e Para quem vive o Agro."
 
+---
 
-. AgroCrypto is a global, AI-powered blockchain infrastructure dedicated to tokenizing carbon credits, agricultural commodities, and ESG-compliant financial assets.
+
+# AgroCrypto is a global, AI-powered blockchain infrastructure dedicated to tokenizing carbon credits, agricultural commodities, and ESG-compliant financial assets.
 
 ---
 
