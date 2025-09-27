@@ -59,6 +59,7 @@ A sovereign digital infrastructure rooted in transparency, security, and real-wo
 - Solana & Avalanche (NFTs & Exchange layer)
 - Bitcoin Lightning for liquidity
 - TRON: for fast contract integration and high-performance assets
+
 ### 🔹 **AgroCrypto Wallet**
 - Send / Receive / Exchange tokens
 - NFC Payments via Host Card Emulation
@@ -119,7 +120,11 @@ AgroCrypto aligns with global sustainability goals and offers a verifiable, immu
 ---
 
 ## 📦 Crates.io Publication
-```toml
+
+---
+
+```
+toml
 [package]
 name = "agrocrypto"
 version = "0.1.0"
@@ -163,9 +168,12 @@ Need to inspect your local directory structure?
 ### 🛠️ Developer Tip (Linux)
 Need to inspect your local directory structure?
 
-```bash
+```
+bash
 sudo apt install ncdu -y
 ncdu ~
 
+---
 
 Then run TreeSize to visualize your disk usage like a boss. 💼🌽
+---
