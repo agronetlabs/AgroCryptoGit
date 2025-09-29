@@ -67,7 +67,7 @@ A sovereign digital infrastructure rooted in transparency, security, and real-wo
 
 ---
 
-## 🧠 AI Modules (AgroCrypto.ai)
+## 🧠 AI Modules (agronet.ai)
 - Asset Certification AI
 - Compliance & KYC AI
 - Token Valuation AI
